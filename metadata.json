@@ -1,0 +1,9 @@
+{
+  "name": "Bottom Power Off",
+  "description": "Move Power Off menu item from submenu to bottom separate item",
+  "uuid": "bottompoweroff@nvlgit.github.com",
+  "url": "https://github.com/nvlgit/bottompoweroff",
+  "shell-version": [
+    "40"
+  ]
+}
