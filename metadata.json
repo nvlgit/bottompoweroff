@@ -4,6 +4,6 @@
   "uuid": "bottompoweroff@nvlgit.github.com",
   "url": "https://github.com/nvlgit/bottompoweroff",
   "shell-version": [
-    "40"
+    "40", "41", "42", "43"
   ]
 }
